@@ -1,0 +1,31 @@
+div{
+    border: red 3px solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+div p{
+    color: rgb(234, 0, 255);
+}
+
+
+div li p{
+    color: blue;
+}
+
+
+div > p{
+color: rgb(126, 196, 14);
+
+}
+
+div + p{
+color: rgb(255, 187, 0);
+
+}
+
+div ~ p {
+color: rgb(179, 17, 92);
+
+}
