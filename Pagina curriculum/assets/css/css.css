@@ -1,17 +1,28 @@
 header{
 display: block;
 background-color: #00c6aa;
+width: fit-content;
 }
 
 
 
 main{
 display: block;
+background-color: #0045c6;
 
 }
 
 
 
 footer{
-display: block;
+display:block;
+background-color: #c60000;
+}
+
+
+
+
+aside{
+    display:block;
+    background-color: #c60000;
 }
