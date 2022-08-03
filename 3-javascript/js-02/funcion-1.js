@@ -1,3 +1,5 @@
+alert("hOLa")
+
 
 function miSuma(a, b){
     let resultado = (a + b);
@@ -57,3 +59,7 @@ function miNombre (a, b, c, d){
 res = miNombre (Arturo, Hernández, Silva);
 
 console.log("Mi nombre es "+ res); 
+
+
+
+
