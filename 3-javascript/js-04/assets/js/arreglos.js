@@ -22,7 +22,7 @@ const arreglo = ["adiós"];
 
 
 
-//()
+//agregar al final
 arreglo.push(2);
 arreglo.push(true);
 
