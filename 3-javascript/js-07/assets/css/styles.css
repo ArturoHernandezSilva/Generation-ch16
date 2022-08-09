@@ -1,0 +1,19 @@
+
+
+#btn-gatito{
+    margin: 0;
+    display: block;
+    background-color: black;
+    color: beige;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#img-gatito{
+    display: block;
+    margin: 20px auto;
+
+    width: 400px;
+    height: 600px
+}
