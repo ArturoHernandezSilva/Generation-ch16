@@ -1,3 +1,7 @@
+package MiSaludo;
+
+import MiSaludo.Saludo;
+
 public class EjemploSaludo {
     public static void main(String[] args) {
         //sintaxis de la instacia
