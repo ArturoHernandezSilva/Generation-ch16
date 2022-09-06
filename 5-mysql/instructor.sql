@@ -1,0 +1,11 @@
+CREATE TABLE instructor(
+instructor_id INT NOT NULL  AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(255) NOT NULL,
+edad INT NOT NULL,
+cumpleanios DATE NOT NULL,
+RFC VARCHAR(255),
+supervisor VARCHAR(255) NOT NULL,
+sesiones VARCHAR(255) NOT NULL
+);
+
+SELECT * FROM instructor;

@@ -23,5 +23,5 @@ DELETE FROM clientes
 WHERE cliente_id = 2;
 
 DELETE FROM clientes
-WHERE nombre = 'juan';
+WHERE apellido = 'chapoy';
  
