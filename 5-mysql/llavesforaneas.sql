@@ -18,11 +18,11 @@ ALTER TABLE compra
 ADD CONSTRAINT fk_clientes_compra
 FOREIGN KEY (cliente_id)
 
-
 REFERENCES clientes (cliente_id);
 
--- BORRAR llave foranea
 
+
+-- BORRAR llave foranea
 ALTER TABLE compra
 DROP FOREIGN KEY fk_clientes_compra;
 
