@@ -9,6 +9,8 @@ import com.generation.ahs.models.UsuarioModelo;
 
 @Repository
 public interface UsuarioRepositories extends CrudRepository <UsuarioModelo, Long> {
+
+	ArrayList<UsuarioModelo> findByPrioridad(Integer prioridad);
 	
 	//public abstract ArrayList<UsuarioModelo> findByPriority(Integer prioridad);
 
